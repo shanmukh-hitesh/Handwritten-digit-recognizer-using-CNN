@@ -8,6 +8,7 @@ Handwritten-digit-recognizer-using-CNN/
 ├── requirements.txt          # List of required Python packages
 ├── example_digit.png         # (Optional) Example digit image for testing
 └── README.md                 # Project overview and instructions
+├── License                   # License allows to view and copy only
 ```
 
 ---
@@ -55,4 +56,13 @@ When prompted, enter the full path to your digit image.
 ## ✍️ Author
 **Shanmukhananda Hitesh Karri**
 
+---
+
+## 📄 License
+This project is licensed under the **Creative Commons BY-ND 4.0** license.  
+You may view and share this project with credit, but you may not modify or remix it.
+
+🔗 [View License Details](https://creativecommons.org/licenses/by-nd/4.0/)
+
+---
 ---
