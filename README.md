@@ -7,8 +7,8 @@ Handwritten-digit-recognizer-using-CNN/
 ├── cnn_digit_predict.py      # Python script for training and prediction
 ├── requirements.txt          # List of required Python packages
 ├── example_digit.png         # (Optional) Example digit image for testing
-└── README.md                 # Project overview and instructions
-├── License                   # License allows to view and copy only
+├── README.md                 # Project overview and instructions
+└── License                   # License allows to view and copy only
 ```
 
 ---
